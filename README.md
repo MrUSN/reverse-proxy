@@ -197,7 +197,7 @@ Une fois les fichiers créés il nous faut recharger le serveur nginx pour qu'il
 Il vous suffit d'ouvrir un navigateur web et d'entrer les différents nom de domaines configurés
 - server1
 ![Site web 1](/image/server1.png)
--server2
+- server2
 ![Site web 2](/image/server2.png)
 
 
