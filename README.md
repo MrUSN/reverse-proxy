@@ -116,6 +116,16 @@ Le port 80 est bien opérationnel dans notre environnement.
 
 ### Téléchargement de nos ressources
 - server1:
+```bash
+[root@server1 ~]# git clone https://github.com/MrUSN/sun-website.git
+Cloning into 'sun-website'...
+remote: Enumerating objects: 25, done.
+remote: Counting objects: 100% (25/25), done.
+remote: Compressing objects: 100% (24/24), done.
+remote: Total 25 (delta 0), reused 25 (delta 0), pack-reused 0
+Unpacking objects: 100% (25/25), done.
+[root@server1 ~]#
+```
 - server2:
 ```bash
 [root@server2 ~]# git clone https://github.com/diranetafen/static-website-example.git
@@ -184,6 +194,11 @@ Une fois les fichiers créés il nous faut recharger le serveur nginx pour qu'il
 ```
 
 ### Vérification de l'accès à nos ressources depuis le serveur reverse proxy via les sous domaines
+Il vous suffit d'ouvrir un navigateur web et d'entrer les différents nom de domaines configurés
+- server1
+![Site web 1](/images/server1.png)
+-server2
+![Site web 2](/images/server2.png)
 
 
 
