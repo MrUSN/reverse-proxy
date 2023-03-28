@@ -196,9 +196,9 @@ Une fois les fichiers créés il nous faut recharger le serveur nginx pour qu'il
 ### Vérification de l'accès à nos ressources depuis le serveur reverse proxy via les sous domaines
 Il vous suffit d'ouvrir un navigateur web et d'entrer les différents nom de domaines configurés
 - server1
-![Site web 1](/images/server1.png)
+![Site web 1](/image/server1.png)
 -server2
-![Site web 2](/images/server2.png)
+![Site web 2](/image/server2.png)
 
 
 
