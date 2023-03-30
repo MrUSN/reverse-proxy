@@ -1,5 +1,5 @@
 
-# Projet Sur la Mise en Place d'un reverse Proxy Local
+# Projet Sur la Mise en Place d'un Reverse Proxy Local
 
 Dans ce Projet il sera question pour nous de mettre en place un reverse Proxy
 nous permettant de mettre à disposition des ressources heberger sur des serveurs interne
